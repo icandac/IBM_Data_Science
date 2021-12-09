@@ -1,3 +1,3 @@
-## Readme file for testrepo_forIBMData 
+## Welcome to my notebook
 
-Well, this is a test readme file for a test repo, as you see.
+You can find here various Jupyter notebooks as prepared or cloned from IBM Data Science program.
